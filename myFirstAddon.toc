@@ -1,0 +1,7 @@
+## Interface: 11508
+## Title: My First Addon
+## Notes: A Hello World addon for WoW Classic Era.
+## Author: Your Name
+## Version: 1.0.0
+
+core.lua
